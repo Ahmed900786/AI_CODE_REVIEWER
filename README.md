@@ -3,19 +3,15 @@
 This project is an AI-powered code reviewer built using Python and Google's API Key. It provides automated feedback on code snippets, detects potential issues, and suggests improvements, mimicking a professional code review process.
 
 ## 🔧 Features
-
-    - 🔍 **Bug Identification**: Detect syntax errors, logical flaws, and inefficiencies.  
-    - 🔧 **Code Optimization**: Suggest fixes and improvements with detailed explanations.  
-    - 🧑‍🏫 **Developer Assistance**: Deliver clear, actionable guidance for better coding.  
-    - 🎨 **Interactive UI**: Built with **Streamlit** for a sleek, user-friendly experience.
-    
+- 🔍 **Bug Identification**: Detect syntax errors, logical flaws, and inefficiencies.  
+- 🔧 **Code Optimization**: Suggest fixes and improvements with detailed explanations.  
+- 🧑‍🏫 **Developer Assistance**: Deliver clear, actionable guidance for better coding.  
+- 🎨 **Interactive UI**: Built with **Streamlit** for a sleek, user-friendly experience.
 ## 🧠 Technologies Used
-
-    - 🐍 **Python**: Core programming language for implementation.  
-    - 🌐 **Streamlit**: Framework for interactive web apps.  
-    - 🤖 **Google Generative AI**: Advanced AI for code review.  
-    - 🔒 **dotenv**: Ensures secure API key management.
-    
+- 🐍 **Python**: Core programming language for implementation.  
+- 🌐 **Streamlit**: Framework for interactive web apps.  
+- 🤖 **Google Generative AI**: Advanced AI for code review.  
+- 🔒 **dotenv**: Ensures secure API key management.
 ## 🌐 Setup and Installation
 
 1. **Clone the Repository**:
@@ -45,4 +41,4 @@ This project is an AI-powered code reviewer built using Python and Google's API 
 
 
 ## 🌟 Contributions
-Contributions are welcome! Please fork the repository, make changes, and submit a pull request. For major changes, open an issue to discuss them first.
+- Contributions are welcome! Please fork the repository, make changes, and submit a pull request. For major changes, open an issue to discuss them first.
