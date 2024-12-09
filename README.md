@@ -2,6 +2,8 @@
 
 This project is an AI-powered code reviewer built using Python and Google's API Key. It provides automated feedback on code snippets, detects potential issues, and suggests improvements, mimicking a professional code review process.
 
+[Watch the demo video](./demo.mp4)
+
 ## 🔧 Features
 - 🔍 **Bug Identification**: Detect syntax errors, logical flaws, and inefficiencies.  
 - 🔧 **Code Optimization**: Suggest fixes and improvements with detailed explanations.  
