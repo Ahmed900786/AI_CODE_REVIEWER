@@ -102,17 +102,6 @@ elif selected_option == "About the Project":
     and guiding developers toward best practices with the power of **AI**.
     """)
 
-    # Project Details
-    st.markdown("---")
-    st.subheader("📜 Project Details")
-    st.markdown("""
-    - **Project Title**: **AI-Powered Code Reviewer**  
-    - **Developed By**: 
-        👨‍🎓 **Sneh Patel** 
-    - **Guided By**: 
-        👨‍🏫 **Kanav Bansal Sir**  
-    """)
-
     # Objective
     st.markdown("---")
     st.subheader("🎯 Objective")
@@ -142,14 +131,6 @@ elif selected_option == "About the Project":
     - 🤖 **Google Generative AI**: Advanced AI for code review.  
     - 🔒 **dotenv**: Ensures secure API key management.
     """)
-    
-    # Thank You Section
-    st.markdown("---")
-    st.subheader("🙏 Special Thanks")
-    st.markdown("""
-    We would like to thank **Kanav Bansal Sir** for his valuable guidance and **Innomatics Research Labs**.
-    """)
-
 
     # Future Scope
     st.markdown("---")
@@ -163,5 +144,5 @@ elif selected_option == "About the Project":
     # Closing Note
     st.markdown("---")
     st.markdown("""
-    > ### **🎉 Thank you for exploring our project! Your feedback and support mean the world to us.** ✨  
+    > ### **🎉 Thank you for exploring our project! Your feedback and support mean the world to me.** ✨  
     """)
